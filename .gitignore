@@ -75,3 +75,4 @@ crashlytics-build.properties
 /My Project/[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # End of https://www.toptal.com/developers/gitignore/api/unity
+/My project/Assets/Settings/Lit2DSceneTemplate.scenetemplate
